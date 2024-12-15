@@ -10,7 +10,7 @@ first_name: Nima
 last_name: Dokoohaki
 
 # Status emoji
-status: work
+status: 
   icon: 🧑‍💻️
 
 # Is this the primary user of the site?
