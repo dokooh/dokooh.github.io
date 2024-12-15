@@ -22,13 +22,16 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://linkedin.com/nimadokoohaki
+        - text: Connect with me on X (Twitter)
+          icon: brands/twitter
+          url: https://x.com/nimdoc
+        - text: Check out my books on Amazon
+          icon: brands/amazon
+          url: https://www.amazon.com/stores/Nima-Dokoohaki/author/B08MFKW3VJ
+        - text: If you are interested in photography, checkout my photography portfolio
+          icon: brands/adobe
+          url: https://nimadokoohaki.myportfolio.com 
 ---
