@@ -45,6 +45,11 @@ profiles:
     url: uploads/resume.pdf
     label: Download my resume
 ---
-As a technologist deeply passionate about innovation, Data, and Artificial Intelligence, I specialize in transforming complex business domains through data-driven insights. My professional approach centers on comprehensive data capture, algorithmic refinement, and product development that generates meaningful and actionable intelligence.
-With a robust academic and professional background, my work spans Human-centered Artificial Intelligence, where I've made significant contributions evidenced by over 40 peer-reviewed publications and three book collaborations with Springer Nature. My research and insights have garnered recognition, including a television lecture that brought my work to a broader audience.
+As a technologist deeply passionate about innovation, Data, and Artificial Intelligence, I specialize in transforming complex business domains through data-driven insights.
+My professional approach centers on comprehensive data capture, algorithmic refinement, and product development that generates meaningful and actionable intelligence.
+
+With a robust academic and professional background, my work spans several fields of Human-centered Artificial Intelligence, where I've made significant contributions evidenced by over 40 peer-reviewed publications and four book publications in Springer Nature. 
+
+My research and insights have garnered recognition, including a television lecture that brought my work to a broader audience.
+
 My core expertise lies in bridging technological innovation with practical business solutions, using data as a strategic lens to uncover deeper understanding and drive impactful outcomes across various vertical business areas.

@@ -24,7 +24,7 @@ sections:
       buttons:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
-          url: https://linkedin.com/nimadokoohaki
+          url: https://www.linkedin.com/in/nimadokoohaki/
         - text: Connect with me on X (Twitter)
           icon: brands/twitter
           url: https://x.com/nimdoc
