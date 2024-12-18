@@ -35,7 +35,7 @@ profiles:
   - icon: brands/instagram
     url: https://www.instagram.com/nimadokoohaki
   - icon: brands/linkedin
-    url: https://www.linkedin.com/nimadokoohaki
+    url: https://www.linkedin.com/in/nimadokoohaki/
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=mUCtC7J8AAAAJ
   - icon: brands/orcid
